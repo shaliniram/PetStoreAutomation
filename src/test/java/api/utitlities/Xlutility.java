@@ -29,7 +29,7 @@ public class Xlutility {
 	{
 		this.path=path;
 	}
-//	...
+
 		
 	public int getRowCount(String sheetName) throws IOException 
 	{
